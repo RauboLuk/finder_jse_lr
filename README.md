@@ -3,13 +3,6 @@
 <div align="center">
    Solution for a take-home test.
 </div>
-<!-- <div align="center"> 
-  <h2>
-    <a href="#">
-      Live
-    </a>
-  </h2>
-</div> -->
 
 <!-- TABLE OF CONTENTS -->
 
