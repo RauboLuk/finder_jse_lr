@@ -1,0 +1,26 @@
+.category__tile {
+  padding: 10px;
+  border: 1px solid #e3e5e8;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.category__tile:hover {
+  border-color: #0271e1;
+}
+
+.category__title {
+  color: #0271e1;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+@media (min-width: 760px) {
+  .category__title {
+    font-size: 16px;
+  }
+}
