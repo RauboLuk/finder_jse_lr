@@ -1,0 +1,12 @@
+.section__subheading {
+  color: #6c7881;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+@media (min-width: 960px) {
+  .section__subheading {
+    font-size: 20px;
+  }
+}
