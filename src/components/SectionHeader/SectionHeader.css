@@ -1,0 +1,13 @@
+.section__header {
+  color: #18304b;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 120%;
+  margin-bottom: 8px;
+}
+
+@media (min-width: 960px) {
+  .section__header {
+    font-size: 32px;
+  }
+}
