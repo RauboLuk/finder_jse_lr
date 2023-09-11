@@ -5,7 +5,11 @@ interface Props {
 }
 
 const Section = ({ children }: Props) => {
-  return <section className="section">{children}</section>;
+  return (
+    <section className="section">
+      <div className="section__container">{children}</div>
+    </section>
+  );
 };
 
 export { Section };
